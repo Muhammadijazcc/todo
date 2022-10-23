@@ -14,7 +14,6 @@ Automat==20.2.0
 autopep8==1.7.0
 backcall==0.2.0
 backports.csv==1.0.7
-backports.zoneinfo==0.2.1
 beautifulsoup4==4.11.1
 bleach==5.0.1
 blinker==1.5
@@ -76,13 +75,6 @@ jedi==0.18.1
 Jinja2==3.1.2
 jmespath==1.0.1
 jsonschema==4.16.0
-jupyter==1.0.0
-jupyter-client==7.3.4
-jupyter-console==6.4.4
-jupyter-core==4.10.0
-jupyter-server==1.21.0
-jupyterlab-pygments==0.2.2
-jupyterlab-widgets==3.0.3
 kaitaistruct==0.10
 kiwisolver==1.4.4
 lxml==4.9.0
